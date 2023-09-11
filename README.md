@@ -125,6 +125,9 @@ I (21552) example: Found header => Host: 192.168.1.179
 I (21562) example: Request headers lost
 ```
 
+![Screenshot 2566-09-11 at 17 30 52](https://github.com/RachataS/ESP-Web-Server/assets/115066261/b800809a-ad3a-4470-9501-5a92648ab5c5)
+
+
 (Replace PORT with the name of the serial port to use.)
 
 (To exit the serial monitor, type `Ctrl-]`.)
